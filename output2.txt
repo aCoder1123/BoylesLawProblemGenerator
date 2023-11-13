@@ -1,0 +1,288 @@
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 310.0 milliliters at 11767.742mm Hg
+2: 420.0 milliliters at 0.476atm
+3: 40.0 cubic centimeters at 83600.0mm Hg
+4: 0.00018 cubic meters at 900666.667Pa
+Answer Code: 0.0
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 200.0 cubic centimeters at 176.4psi
+2: 30.0 milliliters at 126666.667torr
+3: 500.0 milliliters at 79.38psi
+4: 0.37 liters at 0.541atm
+Answer Code: 0.707
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.23 liters at 38.348psi
+2: 0.00025 cubic meters at 10944.0torr
+3: 0.00025 cubic meters at 10032.0torr
+4: 370.0 cubic centimeters at 7.946psi
+Answer Code: 0.707
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 320.0 milliliters at 13.125atm
+2: 0.00032 cubic meters at 137.812psi
+3: 370.0 milliliters at 4313.514mm Hg
+4: 90.0 cubic centimeters at 225166.667Pa
+Answer Code: 0.707
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00023 cubic meters at 88.109kPa
+2: 360.0 cubic centimeters at 10344.444mm Hg
+3: 0.00045 cubic meters at 1.333atm
+4: 350.0 milliliters at 11.143atm
+Answer Code: -1.0
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 150.0 milliliters at 11146.667torr
+2: 300.0 cubic centimeters at 181.3psi
+3: 160.0 milliliters at 9.375atm
+4: 500.0 cubic centimeters at 304.0torr
+Answer Code: 0.707
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 370.0 cubic centimeters at 54770.27Pa
+2: 0.25 liters at 1580670.0Pa
+3: 200.0 milliliters at 14440.0mm Hg
+4: 0.2 liters at 2660.0torr
+Answer Code: -1.0
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 360.0 milliliters at 365895.833Pa
+2: 0.0004 cubic meters at 202650.0Pa
+3: 200.0 milliliters at 1.0atm
+4: 0.00032 cubic meters at 8.438atm
+Answer Code: 0.5
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 130.0 cubic centimeters at 27476.923torr
+2: 430.0 milliliters at 47.128kPa
+3: 330.0 milliliters at 7600.0mm Hg
+4: 0.29 liters at 943370.69Pa
+Answer Code: 0.0
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00014 cubic meters at 144.75kPa
+2: 0.31 liters at 99.581psi
+3: 0.27 liters at 1426.056kPa
+4: 0.44 liters at 2418.182mm Hg
+Answer Code: -1.0
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 380.0 milliliters at 4600.0mm Hg
+2: 0.00048 cubic meters at 612.172kPa
+3: 0.00011 cubic meters at 1381.818torr
+4: 290.0 cubic centimeters at 663853.448Pa
+Answer Code: 0.5
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.36 liters at 147.0psi
+2: 0.5 liters at 304.0torr
+3: 0.00026 cubic meters at 4.615atm
+4: 320.0 cubic centimeters at 1456.547kPa
+Answer Code: 0.0
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.49 liters at 641.036kPa
+2: 0.19 liters at 9200.0mm Hg
+3: 0.0003 cubic meters at 506.667mm Hg
+4: 190.0 cubic centimeters at 8.421atm
+Answer Code: 0.5
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00032 cubic meters at 475.0torr
+2: 240.0 cubic centimeters at 7600.0mm Hg
+3: 100.0 cubic centimeters at 338.1psi
+4: 0.00043 cubic meters at 6.977atm
+Answer Code: -1.0
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.37 liters at 410.811torr
+2: 0.00022 cubic meters at 8981.818torr
+3: 0.18 liters at 408.333psi
+4: 0.24 liters at 12666.667torr
+Answer Code: -1.0
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.0004 cubic meters at 2.75atm
+2: 0.49 liters at 3102.041torr
+3: 50.0 cubic centimeters at 6484800.0Pa
+4: 250.0 cubic centimeters at 11.76psi
+Answer Code: 0.707
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00027 cubic meters at 13229.63mm Hg
+2: 0.47 liters at 323.404mm Hg
+3: 80.0 cubic centimeters at 8.75atm
+4: 270.0 milliliters at 1088305.556Pa
+Answer Code: 0.0
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.13 liters at 779423.077Pa
+2: 0.00021 cubic meters at 10495.238mm Hg
+3: 420.0 cubic centimeters at 48250.0Pa
+4: 20.0 milliliters at 5572875.0Pa
+Answer Code: 0.5
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 420.0 cubic centimeters at 122.5psi
+2: 480.0 cubic centimeters at 1108.333torr
+3: 300.0 milliliters at 9.8psi
+4: 440.0 milliliters at 7254.545mm Hg
+Answer Code: 0.5
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 410.0 milliliters at 154.171psi
+2: 0.00031 cubic meters at 151.742psi
+3: 0.2 liters at 14.7psi
+4: 0.00011 cubic meters at 552681.818Pa
+Answer Code: 0.5
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 210.0 milliliters at 13028.571torr
+2: 0.4 liters at 380.0mm Hg
+3: 220.0 cubic centimeters at 16236.364mm Hg
+4: 0.00028 cubic meters at 220.5psi
+Answer Code: 0.0
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 400.0 cubic centimeters at 7.35psi
+2: 0.00031 cubic meters at 5638.71torr
+3: 0.00029 cubic meters at 11.379atm
+4: 30.0 milliliters at 14185500.0Pa
+Answer Code: -1.0
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.2 liters at 9880.0mm Hg
+2: 120.0 milliliters at 168.875kPa
+3: 270.0 milliliters at 4222.222mm Hg
+4: 290.0 milliliters at 14.828atm
+Answer Code: 0.0
+You begin the race in a submarine, but need to swim to the surface which will take around 10 minutes. To safely do this dive you need to connect an air canister to your scuba gear, that will allow you to have 200 ml of oxygen at a pressure of 1 atm. Choose the canister that will allow you to safely race to the surface. Assume the temperature is constant.
+
+Problem:
+Tank Final Volume: 200 milliliters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 350.0 cubic centimeters at 57.9kPa
+2: 70.0 cubic centimeters at 6079500.0Pa
+3: 0.00025 cubic meters at 1783320.0Pa
+4: 150.0 cubic centimeters at 372.4psi
+Answer Code: -1.0

@@ -1,0 +1,1200 @@
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00041 cubic centimeters at 370.61kPa
+2: 1e-05 cubic centimeters at 147.0psi
+3: 0.0002 milliliters at 1924.7kPa
+4: 0.29 liters at 106.448psi
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00018 cubic centimeters at 12666.667mm Hg
+2: 210.0 cubic meters at 10.952atm
+3: 0.00015 milliliters at 18240.0torr
+4: 0.06 liters at 1.688Pa
+Answer Code: 0.707
+4
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 390.0 cubic meters at 2143.59torr
+2: 0.00044 milliliters at 10.682atm
+3: 340.0 cubic meters at 77.824psi
+4: 250.0 cubic meters at 5.88psi
+Answer Code: 0.707
+4
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.03 liters at 158.703Pa
+2: 90.0 cubic meters at 45.022Pa
+3: 0.00028 milliliters at 0.357atm
+4: 40.0 cubic meters at 19000.0mm Hg
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.0005 cubic centimeters at 3192.0mm Hg
+2: 0.0002 milliliters at 50.65kPa
+3: 0.29 liters at 663.69kPa
+4: 0.0005 milliliters at 456.0torr
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 40.0 cubic meters at 51300.0torr
+2: 110.0 cubic meters at 80.182psi
+3: 0.00014 cubic centimeters at 14657.143torr
+4: 0.00038 cubic centimeters at 0.267Pa
+Answer Code: 0.707
+4
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00044 milliliters at 172.727mm Hg
+2: 320.0 cubic meters at 215.906psi
+3: 0.16 liters at 3800.0mm Hg
+4: 4e-05 cubic centimeters at 1065.75psi
+Answer Code: -1.0
+1
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.14 liters at 3257.143mm Hg
+2: 340.0 cubic meters at 12.647atm
+3: 0.41 liters at 6487.805torr
+4: 30.0 cubic meters at 2533.333torr
+Answer Code: 0.707
+4
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00046 cubic centimeters at 4.625Pa
+2: 0.00028 cubic centimeters at 5.25psi
+3: 0.49 liters at 102.0psi
+4: 130.0 cubic meters at 11.538atm
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 450.0 cubic meters at 114.333psi
+2: 0.00016 milliliters at 9.188psi
+3: 1e-05 milliliters at 360.0atm
+4: 0.00029 cubic centimeters at 15.517atm
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.23 liters at 16191.304mm Hg
+2: 0.22 liters at 19.8Pa
+3: 200.0 cubic meters at 80.85psi
+4: 0.00032 milliliters at 237.5torr
+Answer Code: 0.707
+4
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 230.0 cubic meters at 14.975Pa
+2: 0.00036 milliliters at 9922.222mm Hg
+3: 0.33 liters at 8.485atm
+4: 0.08 liters at 126.625kPa
+Answer Code: 0.707
+4
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00036 milliliters at 65.333psi
+2: 60.0 cubic meters at 6.667atm
+3: 150.0 cubic meters at 506.667torr
+4: 5e-05 milliliters at 9724.8kPa
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.03 liters at 1911.0psi
+2: 0.28 liters at 12757.143mm Hg
+3: 0.27 liters at 8444.444torr
+4: 0.13 liters at 77.923kPa
+Answer Code: 0.707
+4
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.47 liters at 9.052Pa
+2: 0.0003 cubic centimeters at 202.6kPa
+3: 460.0 cubic meters at 5947.826mm Hg
+4: 190.0 cubic meters at 400.0torr
+Answer Code: 0.707
+4
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.33 liters at 1842.424torr
+2: 410.0 cubic meters at 32.268psi
+3: 0.00026 cubic centimeters at 3215.385torr
+4: 0.00017 milliliters at 0.596Pa
+Answer Code: 0.707
+4
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00039 cubic centimeters at 0.26Pa
+2: 130.0 cubic meters at 12.468Pa
+3: 0.27 liters at 562.778kPa
+4: 0.01 liters at 330.0atm
+Answer Code: -1.0
+1
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00041 milliliters at 7229.268mm Hg
+2: 0.00018 milliliters at 422.222mm Hg
+3: 0.00026 cubic centimeters at 0.39Pa
+4: 0.36 liters at 7.035Pa
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 100.0 cubic meters at 303.9kPa
+2: 3e-05 cubic centimeters at 81066.667torr
+3: 0.25 liters at 0.4atm
+4: 8e-05 milliliters at 2785.75kPa
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 410.0 cubic meters at 57.366psi
+2: 0.1 liters at 1.0atm
+3: 0.46 liters at 5782.609mm Hg
+4: 440.0 cubic meters at 1.151Pa
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 140.0 cubic meters at 289.429kPa
+2: 0.00031 cubic centimeters at 6864.516torr
+3: 490.0 cubic meters at 0.204atm
+4: 270.0 cubic meters at 18.519atm
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.3 liters at 33.767kPa
+2: 0.39 liters at 25.974kPa
+3: 280.0 cubic meters at 5.357atm
+4: 0.00011 milliliters at 11745.455torr
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00045 cubic centimeters at 147.0psi
+2: 0.00011 milliliters at 460.455kPa
+3: 0.0001 milliliters at 40.52Pa
+4: 0.00026 milliliters at 5.654psi
+Answer Code: 0.707
+4
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 40.0 cubic meters at 36.75psi
+2: 0.00047 milliliters at 495.723kPa
+3: 140.0 cubic meters at 31.837Pa
+4: 0.00046 cubic centimeters at 2973.913torr
+Answer Code: -1.0
+1
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.0002 cubic centimeters at 12920.0torr
+2: 4e-05 milliliters at 25.0atm
+3: 4e-05 cubic centimeters at 11649.5kPa
+4: 0.0004 cubic centimeters at 190.0mm Hg
+Answer Code: 0.707
+4
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00019 cubic centimeters at 2559.158kPa
+2: 0.47 liters at 10.561Pa
+3: 2e-05 cubic centimeters at 5.0atm
+4: 0.11 liters at 320.727psi
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 50.0 cubic meters at 72960.0torr
+2: 0.00011 cubic centimeters at 4512.455kPa
+3: 0.0004 milliliters at 3.675psi
+4: 7e-05 milliliters at 20628.571mm Hg
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 20.0 cubic meters at 171000.0torr
+2: 210.0 cubic meters at 7.0psi
+3: 450.0 cubic meters at 360.178kPa
+4: 5e-05 cubic centimeters at 7091.0kPa
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.14 liters at 8.571atm
+2: 0.00021 cubic centimeters at 175.0psi
+3: 30.0 cubic meters at 337.667kPa
+4: 0.00045 cubic centimeters at 2.701Pa
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00039 cubic centimeters at 135.692psi
+2: 0.00033 milliliters at 1.228Pa
+3: 320.0 cubic meters at 2137.5torr
+4: 0.00019 milliliters at 0.533Pa
+Answer Code: 0.707
+4
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00019 milliliters at 7.997Pa
+2: 8e-05 milliliters at 5065.0kPa
+3: 470.0 cubic meters at 7600.0torr
+4: 0.34 liters at 4.324psi
+Answer Code: 0.707
+4
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00038 cubic centimeters at 3.868psi
+2: 0.12 liters at 27.013Pa
+3: 0.1 liters at 17.221Pa
+4: 0.00011 cubic centimeters at 3.684Pa
+Answer Code: -1.0
+1
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 8e-05 milliliters at 26600.0mm Hg
+2: 0.29 liters at 262.069torr
+3: 0.02 liters at 79800.0torr
+4: 0.41 liters at 1112.195torr
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.18 liters at 2955.556mm Hg
+2: 180.0 cubic meters at 138.833psi
+3: 8e-05 cubic centimeters at 1.266Pa
+4: 0.3 liters at 7.429Pa
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 160.0 cubic meters at 63.312kPa
+2: 0.06 liters at 73.5psi
+3: 0.00033 cubic centimeters at 7369.697torr
+4: 0.00047 milliliters at 9.362atm
+Answer Code: -1.0
+1
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00042 milliliters at 180.952mm Hg
+2: 0.34 liters at 2.681Pa
+3: 0.00036 milliliters at 6544.444torr
+4: 0.00024 milliliters at 0.417atm
+Answer Code: 0.707
+4
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00041 milliliters at 741.463mm Hg
+2: 0.47 liters at 905.234kPa
+3: 1e-05 milliliters at 10.13Pa
+4: 310.0 cubic meters at 11.11Pa
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.08 liters at 918.75psi
+2: 0.0002 milliliters at 18.0atm
+3: 0.38 liters at 3.868psi
+4: 0.08 liters at 21.526Pa
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.44 liters at 73.5psi
+2: 0.00011 cubic centimeters at 0.921Pa
+3: 460.0 cubic meters at 8.261atm
+4: 290.0 cubic meters at 20.276psi
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 9e-05 cubic centimeters at 27022.222torr
+2: 0.00041 milliliters at 24.707kPa
+3: 0.03 liters at 114.807Pa
+4: 30.0 cubic meters at 2352.0psi
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 150.0 cubic meters at 6.078Pa
+2: 0.45 liters at 133.933psi
+3: 0.00024 milliliters at 14.583atm
+4: 6e-05 milliliters at 1.667atm
+Answer Code: 0.707
+4
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00017 milliliters at 8.342Pa
+2: 330.0 cubic meters at 11.358Pa
+3: 440.0 cubic meters at 23.023kPa
+4: 0.0002 milliliters at 2280.0mm Hg
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 280.0 cubic meters at 0.357atm
+2: 0.11 liters at 23.636atm
+3: 0.00037 milliliters at 629.703kPa
+4: 1e-05 milliliters at 81.04Pa
+Answer Code: -1.0
+1
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 2e-05 cubic centimeters at 73.5psi
+2: 0.00041 milliliters at 7.805atm
+3: 0.00043 cubic centimeters at 5.581atm
+4: 0.00034 milliliters at 8.529atm
+Answer Code: -1.0
+1
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.13 liters at 0.769atm
+2: 260.0 cubic meters at 0.385atm
+3: 1e-05 cubic centimeters at 303.9Pa
+4: 0.47 liters at 9.362atm
+Answer Code: -1.0
+1
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.26 liters at 9938.462torr
+2: 0.00033 cubic centimeters at 245.576kPa
+3: 0.46 liters at 165.217mm Hg
+4: 0.00013 cubic centimeters at 13.247Pa
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 90.0 cubic meters at 844.444torr
+2: 0.00032 milliliters at 10.938atm
+3: 0.00046 cubic centimeters at 10.217atm
+4: 310.0 cubic meters at 2451.613mm Hg
+Answer Code: -1.0
+1
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 440.0 cubic meters at 8.864atm
+2: 160.0 cubic meters at 18050.0mm Hg
+3: 0.00036 cubic centimeters at 28.139kPa
+4: 0.04 liters at 1013.0kPa
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.47 liters at 172.426kPa
+2: 40.0 cubic meters at 72200.0mm Hg
+3: 0.00038 cubic centimeters at 4000.0torr
+4: 0.0003 milliliters at 253.333torr
+Answer Code: 0.707
+4
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.08 liters at 20.26Pa
+2: 3e-05 cubic centimeters at 119066.667torr
+3: 0.36 liters at 0.281Pa
+4: 3e-05 milliliters at 91200.0mm Hg
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00025 milliliters at 12.561Pa
+2: 0.00011 cubic centimeters at 34.995Pa
+3: 0.29 liters at 10744.828torr
+4: 400.0 cubic meters at 190.0torr
+Answer Code: 0.707
+4
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.06 liters at 30400.0torr
+2: 0.00017 milliliters at 181.588psi
+3: 0.4 liters at 190.0torr
+4: 5e-05 cubic centimeters at 58.8psi
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00048 cubic centimeters at 400.979kPa
+2: 0.21 liters at 12304.762torr
+3: 20.0 cubic meters at 3800.0torr
+4: 440.0 cubic meters at 518.182torr
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 120.0 cubic meters at 29133.333torr
+2: 0.00042 cubic centimeters at 180.952mm Hg
+3: 0.25 liters at 6.483Pa
+4: 0.00029 milliliters at 13.103atm
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.49 liters at 971.653kPa
+2: 0.00036 milliliters at 126.583psi
+3: 0.00037 cubic centimeters at 930.865kPa
+4: 0.04 liters at 1900.0mm Hg
+Answer Code: 0.707
+4
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 20.0 cubic meters at 182.34Pa
+2: 0.00046 milliliters at 31.957psi
+3: 380.0 cubic meters at 3.868psi
+4: 1e-05 cubic centimeters at 6468.0psi
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00046 cubic centimeters at 7765.217mm Hg
+2: 0.42 liters at 143.5psi
+3: 0.00022 cubic centimeters at 345.455mm Hg
+4: 480.0 cubic meters at 970.792kPa
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00017 cubic centimeters at 22352.941mm Hg
+2: 3e-05 cubic centimeters at 337.667kPa
+3: 0.38 liters at 319.895kPa
+4: 0.27 liters at 4222.222torr
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 110.0 cubic meters at 3454.545mm Hg
+2: 0.00038 milliliters at 7200.0torr
+3: 20.0 cubic meters at 49400.0torr
+4: 470.0 cubic meters at 3.128psi
+Answer Code: 0.707
+4
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 40.0 cubic meters at 110.0atm
+2: 8e-05 cubic centimeters at 35150.0torr
+3: 0.00036 cubic centimeters at 0.281Pa
+4: 1e-05 milliliters at 20.0atm
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00018 cubic centimeters at 56.278kPa
+2: 0.46 liters at 991.304torr
+3: 6e-05 milliliters at 7091.0kPa
+4: 350.0 cubic meters at 2171.429mm Hg
+Answer Code: -1.0
+1
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.28 liters at 0.362Pa
+2: 0.00019 milliliters at 21.326Pa
+3: 0.00015 cubic centimeters at 2533.333torr
+4: 1e-05 cubic centimeters at 334400.0torr
+Answer Code: -1.0
+1
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.43 liters at 10.837Pa
+2: 0.00021 milliliters at 15923.81mm Hg
+3: 0.0003 cubic centimeters at 33.767kPa
+4: 0.00045 milliliters at 5.178Pa
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00017 cubic centimeters at 4.767Pa
+2: 450.0 cubic meters at 168.889torr
+3: 0.00025 cubic centimeters at 16.613Pa
+4: 0.00023 cubic centimeters at 3.083Pa
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00017 cubic centimeters at 21011.765mm Hg
+2: 0.0005 milliliters at 7.2atm
+3: 0.00036 milliliters at 28.139kPa
+4: 0.00048 cubic centimeters at 443.188kPa
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.0003 milliliters at 10.667atm
+2: 0.05 liters at 1520.0torr
+3: 260.0 cubic meters at 8184.615mm Hg
+4: 0.00018 milliliters at 1266.667torr
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.04 liters at 43.052Pa
+2: 0.00026 milliliters at 2046.154mm Hg
+3: 0.00039 milliliters at 0.26Pa
+4: 1e-05 cubic centimeters at 70.0atm
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 440.0 cubic meters at 0.23Pa
+2: 0.00023 cubic centimeters at 11895.652torr
+3: 0.00014 cubic centimeters at 11.429atm
+4: 0.2 liters at 95.55psi
+Answer Code: -1.0
+1
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 450.0 cubic meters at 168.889mm Hg
+2: 0.0002 cubic centimeters at 213.15psi
+3: 0.19 liters at 317.211psi
+4: 0.00037 cubic centimeters at 186.73psi
+Answer Code: -1.0
+1
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.25 liters at 147.0psi
+2: 8e-05 cubic centimeters at 950.0mm Hg
+3: 0.00047 cubic centimeters at 4365.957torr
+4: 0.29 liters at 262.069mm Hg
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 470.0 cubic meters at 808.511mm Hg
+2: 380.0 cubic meters at 0.267Pa
+3: 0.0003 cubic centimeters at 8.779Pa
+4: 0.00016 milliliters at 6175.0torr
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00035 cubic centimeters at 217.143torr
+2: 0.47 liters at 1131.915torr
+3: 50.0 cubic meters at 10640.0mm Hg
+4: 9e-05 cubic centimeters at 14.444atm
+Answer Code: -1.0
+1
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.27 liters at 37.519kPa
+2: 50.0 cubic meters at 793.8psi
+3: 130.0 cubic meters at 30.769atm
+4: 0.00044 cubic centimeters at 7.955atm
+Answer Code: -1.0
+1
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 6e-05 milliliters at 58.333atm
+2: 6e-05 cubic centimeters at 5065.0kPa
+3: 0.22 liters at 14854.545mm Hg
+4: 0.43 liters at 176.744torr
+Answer Code: 0.707
+4
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.03 liters at 126.667atm
+2: 0.0005 cubic centimeters at 4560.0mm Hg
+3: 0.28 liters at 271.429mm Hg
+4: 0.00049 cubic centimeters at 1240.816mm Hg
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00026 cubic centimeters at 292.308torr
+2: 30.0 cubic meters at 64.157Pa
+3: 120.0 cubic meters at 3166.667torr
+4: 0.00039 cubic centimeters at 11.688Pa
+Answer Code: -1.0
+1
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 2e-05 cubic centimeters at 3307.5psi
+2: 50.0 cubic meters at 235.2psi
+3: 0.0003 milliliters at 0.333atm
+4: 200.0 cubic meters at 205.8psi
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 140.0 cubic meters at 23342.857mm Hg
+2: 0.00041 cubic centimeters at 3.585psi
+3: 0.00029 cubic centimeters at 70.966psi
+4: 1e-05 cubic centimeters at 98800.0mm Hg
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.13 liters at 0.779Pa
+2: 0.46 liters at 7.487Pa
+3: 0.24 liters at 19.167atm
+4: 450.0 cubic meters at 900.444kPa
+Answer Code: -1.0
+1
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.31 liters at 0.327Pa
+2: 0.00019 cubic centimeters at 15.462Pa
+3: 0.00013 cubic centimeters at 13.846atm
+4: 0.00046 milliliters at 9.469Pa
+Answer Code: -1.0
+1
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.32 liters at 0.312atm
+2: 100.0 cubic meters at 441.0psi
+3: 410.0 cubic meters at 98.829kPa
+4: 0.00024 cubic centimeters at 140.875psi
+Answer Code: -1.0
+1
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00036 cubic centimeters at 5700.0torr
+2: 4e-05 milliliters at 36.75psi
+3: 0.00016 cubic centimeters at 8.231Pa
+4: 150.0 cubic meters at 284.2psi
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.17 liters at 0.596Pa
+2: 90.0 cubic meters at 47.273Pa
+3: 1e-05 cubic centimeters at 440.0atm
+4: 80.0 cubic meters at 44650.0mm Hg
+Answer Code: -1.0
+1
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00048 milliliters at 1.25atm
+2: 0.00043 milliliters at 7.539Pa
+3: 0.00032 cubic centimeters at 823.062kPa
+4: 0.07 liters at 1085.714mm Hg
+Answer Code: 0.707
+4
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00018 milliliters at 4.444atm
+2: 0.09 liters at 21955.556torr
+3: 110.0 cubic meters at 187.091psi
+4: 0.39 liters at 0.256atm
+Answer Code: 0.707
+4
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 290.0 cubic meters at 12841.379mm Hg
+2: 0.00045 cubic centimeters at 168.889mm Hg
+3: 0.08 liters at 257.25psi
+4: 0.00021 milliliters at 241.19kPa
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.34 liters at 5811.765torr
+2: 0.04 liters at 1900.0torr
+3: 0.00041 cubic centimeters at 5.122atm
+4: 0.00041 cubic centimeters at 0.244atm
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00042 cubic centimeters at 168.833kPa
+2: 0.09 liters at 844.444mm Hg
+3: 0.00029 cubic centimeters at 733.552kPa
+4: 0.42 liters at 5.0atm
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00016 cubic centimeters at 21.875atm
+2: 6e-05 milliliters at 1266.667torr
+3: 0.00042 milliliters at 45.5psi
+4: 420.0 cubic meters at 3438.095mm Hg
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.03 liters at 490.0psi
+2: 300.0 cubic meters at 161.7psi
+3: 0.0004 cubic centimeters at 25.325kPa
+4: 0.00024 cubic centimeters at 3483.333torr
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00038 cubic centimeters at 7.632atm
+2: 280.0 cubic meters at 178.5psi
+3: 0.06 liters at 1.667atm
+4: 280.0 cubic meters at 3528.571mm Hg
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00041 milliliters at 1037.707kPa
+2: 0.00019 cubic centimeters at 11.729Pa
+3: 0.28 liters at 5.25psi
+4: 0.00049 cubic centimeters at 78.0psi
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 350.0 cubic meters at 9771.429torr
+2: 70.0 cubic meters at 723.571kPa
+3: 0.00035 cubic centimeters at 168.0psi
+4: 0.46 liters at 0.22Pa
+Answer Code: 0.707
+4
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00027 milliliters at 87.111psi
+2: 6e-05 cubic centimeters at 294.0psi
+3: 0.44 liters at 172.727torr
+4: 0.18 liters at 20688.889torr
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.0003 cubic centimeters at 253.333torr
+2: 0.00049 milliliters at 4.341Pa
+3: 8e-05 cubic centimeters at 45.0atm
+4: 210.0 cubic meters at 20.476atm
+Answer Code: -1.0
+1
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 8e-05 cubic centimeters at 38950.0torr
+2: 6e-05 milliliters at 5402.667kPa
+3: 0.00044 milliliters at 172.727mm Hg
+4: 260.0 cubic meters at 6138.462mm Hg
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 340.0 cubic meters at 6.471atm
+2: 0.00017 cubic centimeters at 447.059torr
+3: 260.0 cubic meters at 4.615atm
+4: 0.00027 milliliters at 13.704atm
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 2e-05 milliliters at 34200.0torr
+2: 0.00023 cubic centimeters at 330.435mm Hg
+3: 470.0 cubic meters at 128.234psi
+4: 0.00012 cubic centimeters at 1266.667mm Hg
+Answer Code: 0.0
+2
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 0.00038 milliliters at 6.842atm
+2: 9e-05 milliliters at 42222.222mm Hg
+3: 460.0 cubic meters at 0.217atm
+4: 70.0 cubic meters at 756.0psi
+Answer Code: 0.5
+3
+
+Problem:
+Tank Final Volume: 200 mililiters
+Tank Final Pressure: 1atm
+
+Oxygen Tanks to Choose From:
+1: 180.0 cubic meters at 0.556atm
+2: 0.07 liters at 24971.429torr
+3: 0.00039 cubic centimeters at 4.872atm
+4: 0.00042 milliliters at 5790.476mm Hg
+Answer Code: -1.0
+1
+

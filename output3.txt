@@ -1,0 +1,264 @@
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+7 Up: 445.0 cubic centimeters at 4.691psi
+Cream Soda: 126.0 cubic centimeters at 560.0psi
+Ginger Ale: 194.0 milliliters at 9.794atm
+Pepsi: 0.212 liters at 249.623psi
+Answer Code: 0.0
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+Mountain Dew: 232.0 milliliters at 95.043psi
+Cream Soda: 0.000432 cubic meters at 33305.903Pa
+7 Up: 0.000252 cubic meters at 215.833psi
+Sprite: 0.197 liters at 13.198atm
+Answer Code: 1.0
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+Ginger Ale: 0.000278 cubic meters at 388.201mm Hg
+7 Up: 0.049 liters at 1350.0psi
+Coca-Cola: 0.393 liters at 134.656psi
+Mountain Dew: 0.000385 cubic meters at 8290.909torr
+Answer Code: 0.0
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+Ginger Ale: 0.000406 cubic meters at 524.095kPa
+Sprite: 0.328 liters at 10658.537mm Hg
+Mountain Dew: 410.0 milliliters at 222.421kPa
+Pepsi: 80.0 milliliters at 1.775atm
+Answer Code: 0.707
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+Pepsi: 0.000164 cubic meters at 2780.488mm Hg
+Mountain Dew: 485.0 cubic centimeters at 1567.01mm Hg
+Sprite: 161.0 milliliters at 23130.435mm Hg
+Cream Soda: 0.000328 cubic meters at 6.364psi
+Answer Code: 0.707
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+Ginger Ale: 404.0 milliliters at 401287.129Pa
+Coca-Cola: 0.353 liters at 5382.436mm Hg
+Cream Soda: 289.0 milliliters at 373.426mm Hg
+7 Up: 358.0 cubic centimeters at 205.307psi
+Answer Code: 0.866
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+Coca-Cola: 97.0 milliliters at 2298.093kPa
+Ginger Ale: 367.0 cubic centimeters at 196.267psi
+Mountain Dew: 157.0 milliliters at 2000.685kPa
+Sprite: 0.000213 cubic meters at 67.55kPa
+Answer Code: 0.707
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+Sprite: 117.0 cubic centimeters at 11042.735torr
+Mountain Dew: 0.4 liters at 1139906.25Pa
+7 Up: 0.000436 cubic meters at 3486.239mm Hg
+Pepsi: 0.326 liters at 44.135kPa
+Answer Code: 0.707
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+7 Up: 0.000272 cubic meters at 12294.118torr
+Coca-Cola: 0.19 liters at 10.986psi
+Cream Soda: 301.0 milliliters at 168.314kPa
+Pepsi: 372.0 milliliters at 4.839atm
+Answer Code: 1.0
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+Ginger Ale: 55.0 milliliters at 27636.364torr
+Pepsi: 321.0 milliliters at 44.823kPa
+7 Up: 7.7e-05 cubic meters at 32.468atm
+Coca-Cola: 140.0 cubic centimeters at 20.0atm
+Answer Code: 1.0
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+Mountain Dew: 472.0 cubic centimeters at 6.568atm
+Ginger Ale: 0.000183 cubic meters at 2104.016kPa
+Coca-Cola: 0.327 liters at 5577.982torr
+Cream Soda: 0.000237 cubic meters at 0.599atm
+Answer Code: 0.707
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+Coca-Cola: 0.000366 cubic meters at 5.464atm
+Sprite: 469.0 milliliters at 30678.358Pa
+Cream Soda: 234.0 cubic centimeters at 15589.744mm Hg
+Mountain Dew: 0.113 liters at 1165.686kPa
+Answer Code: 1.0
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+Cream Soda: 4.1e-05 cubic meters at 1362.439psi
+Sprite: 236.0 milliliters at 0.602atm
+Coca-Cola: 0.422 liters at 135.853psi
+Ginger Ale: 461.0 milliliters at 549.485kPa
+Answer Code: 1.0
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+Coca-Cola: 491.0 cubic centimeters at 219.796mm Hg
+Pepsi: 415.0 milliliters at 683.639kPa
+7 Up: 280.0 milliliters at 3.571atm
+Cream Soda: 0.00032 cubic meters at 160.781psi
+Answer Code: 0.0
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+Mountain Dew: 0.000425 cubic meters at 9.412atm
+7 Up: 246.0 milliliters at 13284.553torr
+Pepsi: 0.157 liters at 0.904atm
+Ginger Ale: 65.0 milliliters at 180.923psi
+Answer Code: 0.866
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+Sprite: 0.048 liters at 520.625psi
+Coca-Cola: 7.7e-05 cubic meters at 4210909.091Pa
+Pepsi: 459.0 milliliters at 1821.351mm Hg
+Cream Soda: 284.0 milliliters at 50662.5Pa
+Answer Code: 0.707
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+Mountain Dew: 73.0 milliliters at 6.849atm
+7 Up: 381.0 milliliters at 239350.394Pa
+Ginger Ale: 0.129 liters at 836.589mm Hg
+Sprite: 0.22 liters at 12090.909mm Hg
+Answer Code: 0.866
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+Coca-Cola: 156.0 cubic centimeters at 691.795torr
+Ginger Ale: 323.0 cubic centimeters at 3529.412torr
+Pepsi: 0.000349 cubic meters at 958087.393Pa
+7 Up: 485.0 milliliters at 981.912kPa
+Answer Code: 0.0
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+7 Up: 0.071 liters at 43.662atm
+Pepsi: 0.274 liters at 393.869mm Hg
+Coca-Cola: 135.0 milliliters at 3940.741mm Hg
+Mountain Dew: 45.0 milliliters at 47288.889torr
+Answer Code: 1.0
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+Mountain Dew: 0.234 liters at 1558.846kPa
+Cream Soda: 0.298 liters at 714.035kPa
+Sprite: 0.442 liters at 1203.62mm Hg
+Ginger Ale: 7.4e-05 cubic meters at 28.208psi
+Answer Code: 0.707
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+Coca-Cola: 204.0 milliliters at 0.696atm
+Ginger Ale: 434.0 cubic centimeters at 4903.226torr
+Sprite: 0.000477 cubic meters at 658506.289Pa
+Pepsi: 353.0 milliliters at 602783.286Pa
+Answer Code: 0.0
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+Coca-Cola: 276.0 milliliters at 391.014torr
+Pepsi: 433.0 cubic centimeters at 865825.635Pa
+Cream Soda: 108.0 cubic centimeters at 149.722psi
+7 Up: 0.43 liters at 10.465atm
+Answer Code: 0.0
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+Cream Soda: 0.000146 cubic meters at 1943.219kPa
+Pepsi: 227.0 cubic centimeters at 16740.088mm Hg
+Ginger Ale: 301.0 milliliters at 336.628kPa
+Sprite: 0.448 liters at 240.893mm Hg
+Answer Code: 0.707
+In order to successfully finish the race you must bring a refreshing drink to T. Rose who is waiting at the finish line. You must choose from a selection of sodas to take with you along the rest of the journey. Based on knowing the volume of each drink at the finish line and the initial volume and pressure of each drink, choose the soda that will have the smallest chance of erupting when T. Rose opens it at the finish line.
+
+Problem:
+Soda Final Volume: 355ml
+
+Sodas to Choose From:
+Coca-Cola: 277.0 milliliters at 7.536psi
+7 Up: 0.054 liters at 49259.259mm Hg
+Cream Soda: 0.222 liters at 145.676psi
+Pepsi: 0.175 liters at 2200.2kPa
+Answer Code: 0.0

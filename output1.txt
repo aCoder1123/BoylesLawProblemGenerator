@@ -1,0 +1,288 @@
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 553 liters
+Balloon Minimum Volume: 521 liters
+
+Gas Canisters to Choose From:
+1: 488670.0 milliliters at 1316874.7Pa
+2: 504780.0 milliliters at 10806.6torr
+3: 472.56 liters at 3495.0kPa
+4: 41400.0 cubic centimeters at 9858.0mm Hg
+Answer Code: 1080
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 293 liters
+Balloon Minimum Volume: 259 liters
+
+Gas Canisters to Choose From:
+1: 4900.0 cubic centimeters at 42808.2torr
+2: 325680.0 milliliters at 887084.0Pa
+3: 0.226 cubic meters at 118.8psi
+4: 391920.0 cubic centimeters at 142.6psi
+Answer Code: 140
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 1616 liters
+Balloon Minimum Volume: 1376 liters
+
+Gas Canisters to Choose From:
+1: 1017280.0 milliliters at 86868.9torr
+2: 1.257 cubic meters at 5283.4kPa
+3: 35100.0 milliliters at 32392.0torr
+4: 1256.64 liters at 36945.2psi
+Answer Code: 2250
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 1309 liters
+Balloon Minimum Volume: 1233 liters
+
+Gas Canisters to Choose From:
+1: 1499780.0 cubic centimeters at 3219.6kPa
+2: 1.042 cubic meters at 31.3atm
+3: 22.3 liters at 43316.6torr
+4: 1080350.0 cubic centimeters at 357.7psi
+Answer Code: 1905
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 1392 liters
+Balloon Minimum Volume: 1234 liters
+
+Gas Canisters to Choose From:
+1: 21.3 liters at 6246.0kPa
+2: 1706900.0 cubic centimeters at 141004.8mm Hg
+3: 1628120.0 milliliters at 40.5atm
+4: 0.84 cubic meters at 365.5psi
+Answer Code: 655
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 937 liters
+Balloon Minimum Volume: 783 liters
+
+Gas Canisters to Choose From:
+1: 318.2 liters at 6500.9mm Hg
+2: 0.008 cubic meters at 104.9atm
+3: 395.6 liters at 16890.8torr
+4: 395.6 liters at 8.1atm
+Answer Code: 860
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 1624 liters
+Balloon Minimum Volume: 1250 liters
+
+Gas Canisters to Choose From:
+1: 1997430.0 milliliters at 624.7psi
+2: 43.9 liters at 481.2psi
+3: 316140.0 cubic centimeters at 6582.6torr
+4: 1063380.0 cubic centimeters at 37154130.5Pa
+Answer Code: 1440
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 1073 liters
+Balloon Minimum Volume: 951 liters
+
+Gas Canisters to Choose From:
+1: 4600.0 cubic centimeters at 167200.0mm Hg
+2: 1.133 cubic meters at 30014.4torr
+3: 769120.0 milliliters at 2705.9kPa
+4: 1.316 cubic meters at 44.4atm
+Answer Code: 505
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 1556 liters
+Balloon Minimum Volume: 1408 liters
+
+Gas Canisters to Choose From:
+1: 42000.0 milliliters at 26817.1mm Hg
+2: 2.001 cubic meters at 4944412.9Pa
+3: 1630.2 liters at 10196297.2Pa
+4: 1.853 cubic meters at 5919.9psi
+Answer Code: 740
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 1158 liters
+Balloon Minimum Volume: 910 liters
+
+Gas Canisters to Choose From:
+1: 289520.0 milliliters at 13499.1mm Hg
+2: 2.1 liters at 49890.5kPa
+3: 1778480.0 milliliters at 1333.9psi
+4: 1654400.0 milliliters at 11101.5kPa
+Answer Code: 1030
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 1241 liters
+Balloon Minimum Volume: 975 liters
+
+Gas Canisters to Choose From:
+1: 1772800.0 cubic centimeters at 8513.2kPa
+2: 709120.0 cubic centimeters at 334.1psi
+3: 2.039 cubic meters at 853.8psi
+4: 19.0 liters at 58.3atm
+Answer Code: 2220
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 1466 liters
+Balloon Minimum Volume: 1084 liters
+
+Gas Canisters to Choose From:
+1: 892500.0 milliliters at 640.0psi
+2: 2613750.0 milliliters at 6335842.6Pa
+3: 2613750.0 cubic centimeters at 1204.5psi
+4: 0.007 cubic meters at 19875288.5Pa
+Answer Code: 2560
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 1513 liters
+Balloon Minimum Volume: 1341 liters
+
+Gas Canisters to Choose From:
+1: 1683.86 liters at 71895.1mm Hg
+2: 1683.86 liters at 32810983.6Pa
+3: 0.008 cubic meters at 2527.3psi
+4: 998900.0 milliliters at 303665.6torr
+Answer Code: 2145
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 666 liters
+Balloon Minimum Volume: 556 liters
+
+Gas Canisters to Choose From:
+1: 28400.0 cubic centimeters at 21.5atm
+2: 885.95 liters at 40.3atm
+3: 0.336 cubic meters at 114.6psi
+4: 226070.0 milliliters at 84.1psi
+Answer Code: 305
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 1276 liters
+Balloon Minimum Volume: 1154 liters
+
+Gas Canisters to Choose From:
+1: 1.397 cubic meters at 4881943.3Pa
+2: 16200.0 cubic centimeters at 57000.0torr
+3: 0.79 cubic meters at 410.2psi
+4: 1397250.0 milliliters at 486.7psi
+Answer Code: 1220
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 389 liters
+Balloon Minimum Volume: 325 liters
+
+Gas Canisters to Choose From:
+1: 196.35 liters at 2139.3kPa
+2: 132090.0 cubic centimeters at 1274668.5Pa
+3: 517650.0 cubic centimeters at 1170.7psi
+4: 33.3 liters at 8147.7torr
+Answer Code: 720
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 727 liters
+Balloon Minimum Volume: 549 liters
+
+Gas Canisters to Choose From:
+1: 816640.0 cubic centimeters at 36084.1torr
+2: 280720.0 milliliters at 7.0atm
+3: 1263.24 liters at 19754.4mm Hg
+4: 16500.0 cubic centimeters at 568.4psi
+Answer Code: 1280
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 614 liters
+Balloon Minimum Volume: 464 liters
+
+Gas Canisters to Choose From:
+1: 0.011 cubic meters at 0.3atm
+2: 43.8 liters at 9352.5torr
+3: 312620.0 milliliters at 17730.7mm Hg
+4: 161700.0 cubic centimeters at 6.3atm
+Answer Code: 540
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 1198 liters
+Balloon Minimum Volume: 922 liters
+
+Gas Canisters to Choose From:
+1: 1335600.0 milliliters at 70490.0mm Hg
+2: 1749.0 liters at 3715.2kPa
+3: 1.611 cubic meters at 678.6psi
+4: 0.038 cubic meters at 2841388.9Pa
+Answer Code: 2120
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 1557 liters
+Balloon Minimum Volume: 1381 liters
+
+Gas Canisters to Choose From:
+1: 43.9 liters at 491.9psi
+2: 940160.0 cubic centimeters at 5067.1kPa
+3: 1909.7 liters at 25520.5psi
+4: 1116.44 liters at 850.3psi
+Answer Code: 735
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 1000 liters
+Balloon Minimum Volume: 852 liters
+
+Gas Canisters to Choose From:
+1: 700.0 milliliters at 134038.5kPa
+2: 555600.0 cubic centimeters at 1839744.1Pa
+3: 1.445 cubic meters at 33989.6mm Hg
+4: 1370480.0 cubic centimeters at 110804.8mm Hg
+Answer Code: 465
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 271 liters
+Balloon Minimum Volume: 221 liters
+
+Gas Canisters to Choose From:
+1: 196800.0 milliliters at 4189.6mm Hg
+2: 27.8 liters at 6725.2mm Hg
+3: 0.32 cubic meters at 13501556.2Pa
+4: 73.8 liters at 1.7atm
+Answer Code: 250
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 742 liters
+Balloon Minimum Volume: 560 liters
+
+Gas Canisters to Choose From:
+1: 1106.7 liters at 8368386.4Pa
+2: 833280.0 cubic centimeters at 586.1psi
+3: 1.107 cubic meters at 325.4psi
+4: 10.7 liters at 894.4psi
+Answer Code: 1300
+You found a hot air balloon and need to use the gas canister to take off. Each balloon has a specific volume of gas needed for flight. Too little gas will not let you take off and too much will pop the balloon, and each gas canister has a specific amount of gas in a volume Vi, at pressure Pi. You need to pick which gas canister to use so when released into the balloon at atmospheric pressure Pf(1 atm), its volume will not exceed the maximum for the balloon but will be enough for takeoff.
+
+Problem:
+Balloon Max Volume: 399 liters
+Balloon Minimum Volume: 375 liters
+
+Gas Canisters to Choose From:
+1: 21.6 liters at 1815406.2Pa
+2: 433.44 liters at 16.4atm
+3: 328950.0 cubic centimeters at 8561.7mm Hg
+4: 0.41 cubic meters at 12.9atm
+Answer Code: 195
